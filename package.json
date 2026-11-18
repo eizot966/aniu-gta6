@@ -1,0 +1,9 @@
+{
+  "name": "aniu-gta6",
+  "version": "1.0.0",
+  "private": true,
+  "description": "阿牛 GTA 6 · 罪恶都市全中文交互式地图、PS5 伴侣与门店 212GB 扩容自检中心",
+  "scripts": {
+    "build": "echo 'Ready in public/'"
+  }
+}

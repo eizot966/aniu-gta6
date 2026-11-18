@@ -1,0 +1,23 @@
+{
+  "name": "阿牛 GTA 6 · 罪恶都市全收集地图与 PS5 伴侣中心",
+  "short_name": "阿牛GTA6",
+  "description": "Grand Theft Auto VI (GTA 6) 雷奥奈达与罪恶都市全中文交互式全收集地图、PS5 手柄秘籍、白金奖杯追踪器与 212GB 扩容自检中心",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090714",
+  "theme_color": "#ff2a85",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
